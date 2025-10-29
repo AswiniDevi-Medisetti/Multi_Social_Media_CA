@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3rd Year Computer Engineering Student  
 - GitHub: [AswiniDevi-Medisetti](https://github.com/AswiniDevi-Medisetti)
 - LinkedIn: [ASWINIDEVI MEDISETTI](https://linkedin.com/in/aswinideviM)
-- Email: your.email@university.edu
+- Email: medisettiaswinidevi2@gmail.com
 
 ## 🙏 Acknowledgments
 
